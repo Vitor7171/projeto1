@@ -1,2 +1,3 @@
 Ola, Meu Nome e Vitor Emanuel.
-Ola, Eu sou uma nova linha
+Ola, Eu sou uma nova linha.
+Python e da hora
